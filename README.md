@@ -1,0 +1,1 @@
+Selenium [![Build status](https://ci.appveyor.com/api/projects/status/kifmo86i83vgbjda?svg=true)](https://ci.appveyor.com/project/KaterinaRekiyan/selenium01)

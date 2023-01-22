@@ -53,7 +53,6 @@ public class CardApplicationTest {
 
     @Test
     void shouldTestv2() {
-        List<WebElement> elements = driver.findElements(By.className("input__control"));
         driver.findElement(By.cssSelector("[data-test-id=name] input")).sendKeys("Кулёчкина Алёна");
         driver.findElement(By.cssSelector("[data-test-id=phone] input")).sendKeys("+79998887766");
         driver.findElement(By.cssSelector("[data-test-id=agreement]")).click();
